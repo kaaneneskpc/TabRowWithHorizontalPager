@@ -22,7 +22,7 @@ Getting started is a breeze with our comprehensive documentation and easy-to-use
 In today's fast-paced digital landscape, staying ahead means embracing innovation. With TabRow and Horizontal Pager, you're not just keeping up with trends, you're setting them!
 
 🎊 Ready to Elevate Your App's Navigation Experience?
-Explore TabRow with <a href="https://developer.android.com/jetpack/compose/layouts/pager)">Horizontal Pager</a> today and revolutionize the way your users navigate content! 
+Explore TabRow with <a href="https://developer.android.com/jetpack/compose/layouts/pager">Horizontal Pager</a> today and revolutionize the way your users navigate content! 
 
 # Screenshots
 
